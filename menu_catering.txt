@@ -1,0 +1,100 @@
+Ayam Bakar, Tumis Sawi Daging, Tempe Bumbu Kuning, Sambal
+Pindang Sarden, Sayur Bening Bayam Jagung, Telur Dadar, Sambal
+Asem-asem Daging Wortel, Terong Krispi, Tahu Goreng, Sambal
+Ayam Goreng, Cah Wortel Kacang Polong dan Jagung, Kekehan Goreng, Sambal
+Udang Goreng Mentega, Sayur Sop, Rolade, Sambal
+Kare Telur, Lodeh Manisa, Sambal Ati Wortel dan Kentang, Sambal
+Ayam Goreng Laos, Cah Wortel Buncis Kubis, Rolade, Sambal
+Cumi Masak Hitam, Sayur Bening Bayam, Ote-ote, Sambal
+Rendang Daging, Sayur Bobor Daun Singkong, Telur Padang, Sambal
+Ayam Kentucky, Sup Aneka Jamur, Tahu Krispi, Sambal
+Bothok Udang, Sayur Asem, Dadar Jagung, Sambal
+Rawon Daging, Telur Asin, Perkedel Kentang, Sambal
+Ayam Kecap, Sup Aneka Bakso, Kentang Goreng, Sambal
+Ikan Mujair Goreng, Cah Tumis Kangkung dan Udang, Tempe Goreng Marinasi, Sambal
+Lapis Daging, Oseng-oseng Wortel Buncis Kubis dan Sosis, Rempah Kelapa Singkong, Sambal
+Ayam Bumbu Rujak, Sayur Bening Wortel dan Jagung, Tahu Bali, Sambal
+Udang Crispy, Oseng-oseng Kembang Kol Wortel dan Kacang Panjang, Nuget Ayam, Sambal
+Soto Daging Komplit, Telur Rebus, Kerupuk Udang, Sambal
+Ayam Suwir, Sup Makaroni, Mie Goreng Pentol Sosis, Sambal
+Tuna Suwir, Lodeh Kacang Panjang Tempe, Tahu Isi, Sambal
+Semur Daging Kentang, Oseng-oseng Jamur Tiram Buncis dan Wortel, Onion Ring, Sambal
+Ayam Kalasan, Sayur Asem Jakarta, Dadar Jagung, Sambal
+Udang Asam Manis, Capcay, Martabak Telur, Sambal
+Bandeng Masak Kuning, Cah Manisa, Siomay, Sambal
+Ayam Kremes, Sop, Nugget, Sambal 
+Ikan Saus Padang, Tumis Kangkung Touge Tempe, Omelet Sosis, Sambal
+Gule Sapi, Acar Wortel Timun, Kerupuk Udang, Sambal 
+Ayam Bali, Cah Janten Buncis, Tahu Bali, Sambal
+Oseng-oseng Udang, Sop Merah, Tempe Mendoan, Sambal 
+Rendang Ayam, Gule Daun Singkong, Mie Goreng Sayur, Sambal
+Soto Ayam Komplit, Telur Rebus, Kerupuk Udang, Sambal 
+Ikan Fillet Goreng Tepung, Sayur Asem, Dadar Jagung, Sambal
+Daging Krengsengan, Sup, Tempe Marinasi, Sambal
+Cumi Masak Hitam, Sayur Bening, Tahu Crispy, Sambal
+Udang Goreng Crispy, Capcay, Lumpiah, Sambal
+Kare Ayam, Orak-arik Wortel Kubis Telur, Ote-ote/Bakwan, Sambal
+Ayam Suwir Bumbu Merah, Sop Makaroni, Mie Goreng Pentol Sosis, Sambal
+Tuna Suwir, Lodeh Kacang Panjang Tempe, Martabak Telor, Sambal
+Ayam Bakar Madu, Urap-urap, Tempe Goreng, Sambal 
+Udang Balado, Tumis Tauge Tahu, Pancake Sayuran, Sambal
+Bandeng Masak Kuning, Oseng-oseng Manisa, Siomay, Sambal
+Ayam Kecap, Sop Bakso, Kentang Goreng, Sambal
+Ikan Gurame Sambal Mangga, Tumis Kangkung Udang, Tempe Goreng Marinasi, Sambal
+Ayam Bumbu Rujak, Sop Oyong/Gambas, Tahu Bali, Sambal
+Udang Bumbu Pepes, Sayur Asem, Dadar Jagung, Sambal
+Telor Ceplok Masak Kecap, Tumis Kembang Kol dan Bakso, Nugget Ayam, Sambal
+Ayam Teriyaki, Capcay, Rolade, Sambal
+Cumi Masak Hitam, Tumis Kangkung Telur Puyuh, Tempe Marinasi, Sambal
+Daging Krengsengan, Oseng Kacang Panjang, Bumbu Kuning, Kerupuk Udang, Sambal
+Udang Saos Tiram, Tumis Sosis Sayuran, Telur Dadar Padang, Sambal
+Ayam Kentucky, Sup, Tahu Kecap, Sambal
+Oseng Tuna Suwir, Lodeh Kacang Panjang Tewel, Kekehan Goreng, Sambal
+Ayam Kecap, Sayur Sup, Kornet Goreng Telur, Sambal
+Ayam Kalasan, Sayur Asem Deso, Tempe Mendoan, Sambal
+Rawon Komplit, Telur Asin, Tempe Marinasi, Sambal
+Chicken Grill Saos BBQ, Tumis Tauge, Bihun Goreng Spesial, Sambal
+Kare Udang Tumis Buncis Wortel dan Janten, Tahu Isi, Sambal
+Rendang Daging, Sayur Bobor Daun Singkong, Dadar Telur Bawang, Sambal
+Ayam Goreng Telur, Sop Sayuran, Nugget Ayam, Sambal
+Pindang Bumbu Rujak, Sayur Bening Komplit, Dadar Jagung, Sambal
+Soto Daging Madura Non Jeroan, Kerupuk Udang, Telur Rebus, Sambal
+Tongkol Masak Habang, Cah Sawi Putih Udang Tahu, Kentang Balado, Sambal
+Udang Grill Saos BBQ, Tumis Kacang Panjang Tempe, Sosis Bakar, Sambal
+Soto Betawi, Emping, Perkedel Kentang, Sambal
+Ayam Begana Betawi, Plecing Kangkung, Tempe Goreng Ungkep, Sambal
+Ikan Fillet Asam Manis, Tumis Sayur Tiga Warna, Omelet Makaroni, Sambal
+Lapis Daging, Tumis Terong, Orek Tempe, Sambal
+Laksa Ayam, Telur Rebus, Tahu Goreng Ingkep, Sambal
+Udang Goreng Kunyit, Buncis Belacan, Soun Cabe Ijo, Sambal
+Daging Bistik, Sayur Bistik, Kentang Goreng, Sambal
+Paru Lado Ijo, Tumis Buncis Wortel dan Janten, Orek Tahu Kecap, Sambal
+Ayam Goreng Serundeng, Sayung Bening Bayam Jagung, Bakwan Sayur, Sambal
+Rawon Daging Labu Putih, Tempe Goreng, Telur Asin, Sambal
+Kotokan Ikan Pe, Sayur Asem Jawa, Dadar Jagung, Sambal
+Udang Goreng Bawang, Sayur Sop, Kwetiaw Goreng Spesial, Sambal
+Ikan Bakar Rica-Rica, Sayur Pakcoy Bawang Putih, Tahu Marinasi Goreng, Sambal
+Ayam Masak Kecap, Sayur Tumis Tiga Warna, Rolade Sapi, Sambal
+Ikan Fillet Goreng Tepung, Sayur Tauco, Perkedel Bihun, Sambal
+Tongseng Sapi Kuah, Cah Tauge Wortel, Mi Goreng Sayur, Sambal
+Kerang Hijau Saus Padang, Capcay Kuah, Telur Dadar Serundeng, Sambal
+Udang Pete Balado, Sayur Lodeh, Tempe Mendoan, Sambal
+Sate Taichan, Sop Ceker Ayam, Orek Tahu Kecap, Sambal
+Koloke Ayam, Sup Makaroni, Rolade, Sambal
+Ikan Balado, Tumis Tauge, Tahu Crispy, Sambal
+Soto Daging Komplit, Perkedel Kentang, Telur Rebus, Sambal
+Ayam Goreng Telur, Plecing Kangkung, Dadar Jagung, Sambal
+Udang Goreng Crispy, Cah Sawi Daging dan Jamur, Omelet Sosis, Sambal
+Pindang Bumbu Rujak, Sayur Pecel dan Peyek Kacang, Tempe Marinasi, Sambal
+Rica-rica,Sop, Tempe Orek Cabe Ijo, Sambal
+Ikan Kembung Goreng, Tumis Tauge Kacang Panjang, Sambal Goreng Ati Kentang, Sambal
+Gule Daging, Tempe Marinasi, Martabak Mi, Sambal
+Ikan Patin Pasmol, Cah Kembang Kol Sawi Sosis, Perkedel Tahu, Sambal
+Bothok Udang Kelapa, Sayur Bening Komplit, Bala-bala Sayuran, Sambal
+Kare Ayam, Orak-arik Wortel Kubis Telur, Tahu Bakso, Sambal
+Ayam Goreng Serundeng, Sop Sosis Kuah, Tempe Crispy, Sambal
+Asem-asem Bandeng, Tumis Manisa Wortel, Fuyunghai Tanpa Saos, Sambal
+Daging Masak Paprika, Terong Tumis, Telor Dadar Rawis, Sambal
+Ikan Mujair Sambal Dabu-dabu, Sayur Asem, Kentang Balado, Sambal
+Udang Saos Padang Jagung, Sayur Gambas, Tumis Pangsit Goreng Sayur, Sambal
+Paru Lado Ijo, Gule Daun Singkong, Tahu Goreng Ungkep, Sambal
